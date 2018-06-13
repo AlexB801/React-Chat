@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.3.1"
+  }
 }
